@@ -1,0 +1,12 @@
+{
+  "name": "ShadowJack",
+  "short_name": "ShadowJack",
+  "description": "Discreet blackjack for Meta Ray-Ban Display + Neural Band. The game nobody sees.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    { "src": "favicon.png", "sizes": "128x128", "type": "image/png" }
+  ]
+}
